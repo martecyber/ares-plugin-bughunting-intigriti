@@ -1,0 +1,15 @@
+{
+  "id": "bughunting-intigriti",
+  "version": "1.0.0-beta1",
+  "displayName": "Bug Hunting: Intigriti",
+  "vendor": "Mart\u00edn Romera",
+  "license": "Proprietary",
+  "description": "Intigriti Researcher API client for Bug Hunting programme scope + rules-of-engagement sync, and the BH_INTG project subtype. Requires the Bug Hunting Programs plugin.",
+  "sdkVersion": "1",
+  "dependsOn": [
+    {
+      "pluginId": "bughunting"
+    }
+  ],
+  "icon": "/img/sources/intigriti.svg"
+}
